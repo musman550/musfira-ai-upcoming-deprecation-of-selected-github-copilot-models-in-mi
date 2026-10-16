@@ -1,5 +1,5 @@
 {
-  "name": "Musfira AI - Upcoming deprecation of selected GitHub Copilot models in mid-October",
+  "name": "Musfira AI - Upcoming deprecation of selected GitHub Copilot models in mid-November",
   "nodes": [
     {
       "parameters": {},
@@ -15,7 +15,7 @@
         "method": "POST",
         "jsonParameters": true,
         "options": {},
-        "bodyParametersJson": "{\"model\": \"llama3\", \"prompt\": \"Summarize: Upcoming deprecation of selected GitHub Copilot models in mid-October\", \"stream\": false}"
+        "bodyParametersJson": "{\"model\": \"llama3\", \"prompt\": \"Summarize: Upcoming deprecation of selected GitHub Copilot models in mid-November\", \"stream\": false}"
       },
       "id": "ollama-call",
       "name": "Query Ollama",
